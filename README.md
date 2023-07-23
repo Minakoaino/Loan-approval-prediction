@@ -22,18 +22,18 @@ You would need to have Python installed on your machine. The project code is wri
 1. Clone the project repository: Clone or download the project repository to your local machine using the command:
 
 
-  git clone <repo_url>
-  Replace <repo_url> with the URL of project Git repository.
+    git clone <repo_url>
+    Replace <repo_url> with the URL of project Git repository.
 
 2. Navigate to the project directory: Change your current directory to the directory of the project where the requirements file is located.
 
-  cd <project-directory>
-  Replace <project-directory> with the path of project directory.
+    cd <project-directory>
+    Replace <project-directory> with the path of project directory.
 
 3. Create a virtual environment (Optional): Creating a virtual environment is a good practice to keep the project's dependencies isolated from other projects. Use the following command to create a new virtual environment.
 
-  python3 -m venv env
-  To activate the virtual environment, use:
+    python3 -m venv env
+    To activate the virtual environment, use:
 
 
 source env/bin/activate  # For Unix or MacOS
